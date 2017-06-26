@@ -9,13 +9,13 @@
 Brief description of what package does. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. 
+consequat.
 
 ## Package Status
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropensci/citeulike?branch=master&svg=true)](https://ci.appveyor.com/project/ropensci/citeulike)
 [![Travis-CI Build Status](https://travis-ci.org/ropensci/citeulike.svg?branch=master)](https://travis-ci.org/)
- [![codecov](https://codecov.io/gh/RMHogervorst/badgecreatr/branch/master/graph/badge.svg)](https://codecov.io/gh/RMHogervorst/badgecreatr) 
+ [![codecov](https://codecov.io/gh/RMHogervorst/badgecreatr/branch/master/graph/badge.svg)](https://codecov.io/gh/RMHogervorst/badgecreatr)
 [![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/citeulike?color=blue)](https://github.com/metacran/cranlogs.app)
 
 
@@ -35,10 +35,10 @@ Other standard headings to recommend?
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.466812.svg)](https://doi.org/10.5281/zenodo.466812)
 [![status](http://joss.theoj.org/papers/c83b6694f1192e920aa86912bd08919c/status.svg)](http://joss.theoj.org/papers/c83b6694f1192e920aa86912bd08919c)
 
-_Write more on how to cite_
+Get citation information for `{{repo_name}}` in R by running: `citation(package = '{{repo_name}}')`
 
 ### Code of Conduct
 
-
+Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 [![ropensci_footer](https://ropensci.org/public_images/github_footer.png)](https://ropensci.org)
