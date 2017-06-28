@@ -19,6 +19,14 @@ consequat.
 
 __Installation instructions__
 
+__Stable Version__
+
+```r
+install.packages("package_name")
+```
+
+__Development Version__
+
 ```r
 # install.packages("devtools")
 devtools::install_github("ropensci/repo_name")
