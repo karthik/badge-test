@@ -10,7 +10,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat.
 
-### Usage
+### Package status and installation
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropensci/citeulike?branch=master&svg=true)](https://ci.appveyor.com/project/ropensci/citeulike)
 [![Travis-CI Build Status](https://travis-ci.org/ropensci/citeulike.svg?branch=master)](https://travis-ci.org/)
@@ -24,7 +24,9 @@ __Installation instructions__
 devtools::install_github("ropensci/repo_name")
 ```
 
-_Add the main content of your README here_
+## Usage
+
+_Minimal demonstration of usage and package capabilities.  More elaborate demonstrations and tutorials should go in vignettes._
 
 
 ### Citation
